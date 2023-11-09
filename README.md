@@ -1,6 +1,7 @@
 # ViperScript
 Official ~~programming language~~ Adapt dialect (although it still counts as a programming language) of Viper: ViperScript/Viper. ~~It is a cross between Python and JavaScript. In its infancy.~~ It's whatever it wants to be.
 Old versions are archived, all the way down to the first version with only the print and input (ask) commands.
+The current (and only) compiler is found here:
 ## Disclaimer
 ~~Due to me being pretty new at programming (This is mostly a hobby project, no need to talk to me about how this is apparently a bad idea), this should be used *in conjunction* with Python syntax.~~ It's finally becoming a real man.
 ## ~~This is really, really confusing.~~
